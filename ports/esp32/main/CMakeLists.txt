@@ -62,6 +62,7 @@ set(MICROPY_SOURCE_PORT
     ${PROJECT_DIR}/esp32_nvs.c
     ${PROJECT_DIR}/esp32_partition.c
     ${PROJECT_DIR}/esp32_rmt.c
+    ${PROJECT_DIR}/esp32_sigmadelta.c
     ${PROJECT_DIR}/esp32_ulp.c
     ${PROJECT_DIR}/modesp32.c
     ${PROJECT_DIR}/espneopixel.c
